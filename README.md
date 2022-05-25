@@ -8,7 +8,7 @@ mysite
      
      
 * python 3.7.0
-* django ?
-* docker
-* ubuntu
+* django -
+* docker -
+* ubuntu -
 * 
